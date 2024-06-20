@@ -1,7 +1,8 @@
 # 响应式个人博客界面
 
 开发简易个人响应式博客，Bootstrap3小型项目实战
-
+# 在线预览:
+https://luodeng6.github.io/vlogdeng.github.io/
 ## 功能简介：
 
 - 登录注册界面
@@ -36,9 +37,3 @@
 ![narro_blog_nav](https://github.com/weilanhanf/Photos/blob/master/Blog/narro_blog_nav.png?raw=true)
 
 
-## 在线样例：
-
-[https://weilanhanf.github.io](https://weilanhanf.github.io)
-
-## 项目步骤：
-[Bootstrap 实战之响应式个人博客](https://www.cnblogs.com/welan/p/10332038.html)
